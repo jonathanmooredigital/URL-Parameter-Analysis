@@ -2,7 +2,7 @@
 
 <h2>About</h2>
 
-<p>Made by <a href="https://jonathanmoore.digital/">Jonathan Moore</a>. Get in touch <a href="https://twitter.com/nathanless">Twitter</a> if you have any questions.</p>
+<p>Made by <a href="https://jonathanmoore.digital/">Jonathan Moore</a>. Get in touch via <a href="https://twitter.com/nathanless">Twitter</a> if you have any questions.</p>
 
 <h2>Description</h2>
 
